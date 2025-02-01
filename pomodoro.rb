@@ -1,7 +1,7 @@
 class Pomodoro < Formula
     desc "A simple terminal-based Pomodoro timer"
     homepage "https://github.com/monoganog/Pomodoro-Terminal"
-    url "https://github.com/monoganog/Pomodoro-Terminal/archive/1.0.0.tar.gz"
+    url "https://github.com/monoganog/Pomodoro-Terminal/archive/v1.0.0.tar.gz"
     sha256 "482cc8c5aa0cc7a757b17c1c3376d8a2ef039f87045ad6909ed55e386ffe3c02"
     version "1.0.0"
   
